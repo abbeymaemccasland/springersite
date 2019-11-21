@@ -37,14 +37,14 @@ header nav a:hover {
 }
 
 header nav a.active {
-  color: green;
+  color: purple;
   font-weight: bold;
 }
 
 /* Image Page - Styles */
 .pics-heading {
   text-align: center;
-  color:red;
+  color:blue;
 }
 
 .img-container {
@@ -59,6 +59,7 @@ header nav a.active {
   margin-left: 10px;
   margin-right: 10px;
 }
+
 
 @media screen and (max-width: 600px) {
   .img-container img {
